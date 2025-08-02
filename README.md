@@ -23,5 +23,5 @@ I'll be following the **Advanced Track**, solving two problems every day from th
 ## 🗓️ Daily Progress
 Will be updated with daily problem solutions...
 
-This repository will only be in an archived state ( read only state ) so that no alteration can be made to original code 
+This repository will only be in an archived state ( read only state ) so that no alteration can be made to original code ;
 Thank you for reading 
